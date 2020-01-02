@@ -1,0 +1,31 @@
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\Coaching Management.exe.config
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\Coaching Management.exe
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\Coaching Management.pdb
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching Management.csprojResolveAssemblyReference.cache
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.Properties.Resources.resources
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching Management.csproj.GenerateResource.Cache
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching Management.exe
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching Management.pdb
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.HOME.resources
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\MySql.Data.dll
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\Google.Protobuf.dll
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\Renci.SshNet.dll
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\BouncyCastle.Crypto.dll
+G:\C# win app\Coaching Management\Coaching Management\bin\Debug\MySql.Data.xml
+G:\Coaching Management\Coaching Management\bin\Debug\Coaching Management.exe.config
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching Management.exe
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching Management.pdb
+G:\Coaching Management\Coaching Management\bin\Debug\Coaching Management.exe
+G:\Coaching Management\Coaching Management\bin\Debug\Coaching Management.pdb
+G:\Coaching Management\Coaching Management\bin\Debug\MySql.Data.dll
+G:\Coaching Management\Coaching Management\bin\Debug\Google.Protobuf.dll
+G:\Coaching Management\Coaching Management\bin\Debug\Renci.SshNet.dll
+G:\Coaching Management\Coaching Management\bin\Debug\BouncyCastle.Crypto.dll
+G:\Coaching Management\Coaching Management\bin\Debug\MySql.Data.xml
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching Management.csprojResolveAssemblyReference.cache
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.HOME.resources
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.Properties.Resources.resources
+G:\Coaching Management\Coaching Management\obj\Debug\Coaching Management.csproj.GenerateResource.Cache
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.Admin.resources
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.Student.resources
+G:\C# win app\Coaching Management\Coaching Management\obj\Debug\Coaching_Management.Teacher.resources
